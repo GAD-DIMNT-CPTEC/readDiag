@@ -19,6 +19,7 @@ pip install readDiag
 Alguns dos pacotes do Python que são instalados junto com o readDiag:
 
 * Cartopy (v0.22.0)
+* Fiona (v1.9.6)
 * geopandas (v0.14.1)
 * jupyterlab (v4.0.9)
 * matplotlib (v3.8.2)
