@@ -33,7 +33,7 @@ ext  = Extension(name='diag2python',
 
 if __name__ == "__main__":
     from numpy.distutils.core import setup
-    setup(name='readDiag',
+    setup(name='readdiag',
           version='1.3.3',
           long_description=open('README.md').read(),
           long_description_content_type='text/markdown',
